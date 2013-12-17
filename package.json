@@ -1,0 +1,29 @@
+{
+  "name": "connect-oauth-github",
+  "version": "0.0.0",
+  "description": "GitHub OAuth for Connect/Express",
+  "author": "Scott González <scott.gonzalez@gmail.com> (http://scottgonzalez.com)",
+  "main": "index.js",
+  "dependencies": {
+    "express": "3.x"
+  },
+  "devDependencies": {
+    "github-request": "1.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/scottgonzalez/connect-oauth-github.git"
+  },
+  "keywords": [
+    "auth",
+    "connect",
+    "express",
+    "github",
+    "oauth"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/scottgonzalez/connect-oauth-github/issues"
+  },
+  "homepage": "https://github.com/scottgonzalez/connect-oauth-github"
+}
