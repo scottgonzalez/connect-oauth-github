@@ -1,6 +1,6 @@
 {
   "name": "connect-oauth-github",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "GitHub OAuth for Connect/Express",
   "author": "Scott González <scott.gonzalez@gmail.com> (http://scottgonzalez.com)",
   "main": "index.js",
